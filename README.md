@@ -1,4 +1,4 @@
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
+![示例]
 
 ## QuantumultX小白配置
 
