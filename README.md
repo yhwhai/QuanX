@@ -1,4 +1,4 @@
-![示例]
+fork自[@Orz-3](https://github.com/Orz-3)
 
 ## QuantumultX小白配置
 
